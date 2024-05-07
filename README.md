@@ -12,15 +12,15 @@
   
 # 💞 Connect with me :
 <p align="center">
-<a href="https://www.linkedin.com/in/mdkawseralam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mdkawseralam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-kawser-alam-695507308/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-kawser-alam-695507308/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mdkawseralam.23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdkawseralam.23" height="30" width="40" /></a>
 </p>
 <br>
  <p align="center">
-<a href="https://codeforces.com/profile/BrainError" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/brainerror" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/brainerror" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/brainerror" height="30" width="40" /></a>
-<a href="https://leetcode.com/BrainErrors/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/brainerrors/" height="30" width="40" /></a>
-<a href="https://profiles.topcoder.com/brainerror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/brainerror" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Kawser-Alam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Kawser-Alam" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kawser_alam" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kawser_alam" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Kawser-Alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Kawser-Alam/" height="30" width="40" /></a>
+<a href="https://profiles.topcoder.com/kawser-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/kawser-alam" height="30" width="40" /></a>
 </p>
 
 # 💻 Skills and Technologies :
