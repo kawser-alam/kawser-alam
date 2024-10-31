@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack - MongoDB, Express, React, Node**
 
-- 📫 How to reach me: 💌 **mdkawseralam.rk@gmail.com**
+- 📫 How to reach me: 💌 **kawserishad.23@gmail.com**
   
 # 💞 Connect with me :
 <p align="center">
